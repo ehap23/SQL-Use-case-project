@@ -20,12 +20,12 @@ Welcome to the Danny's Diner SQL Case Study! This project explores customer tran
   - [10. Double Points in First Week of Membership](#10-double-points-in-first-week-of-membership)
 - [Conclusion](#conclusion)
 
-## 📖 Overview
+📖 ## Overview
 Danny’s Diner opened in early 2021, focusing on three Japanese cuisine staples: sushi, curry, and ramen. Danny is curious about his customers' habits—what they enjoy, how frequently they visit, and how much they spend. The aim of this project is to extract insights to help Danny understand his customers and optimize his loyalty program. 
 
 Through this analysis, Danny hopes to make data-driven decisions about expanding his customer loyalty program to build deeper connections and improve customer satisfaction.
 
-## 🎯 Problem Statement
+🎯 ##  Problem Statement
 Danny's primary goals are to:
 - Understand customer visit patterns and preferences
 - Track spending by each customer and identify top items
@@ -33,7 +33,7 @@ Danny's primary goals are to:
 
 The insights gathered will help Danny deliver a better experience and potentially expand the loyalty program to enhance customer engagement and retention.
 
-## 📊 Datasets and ER Diagram
+ 📊 ## Datasets and ER Diagram
 
 We have three tables within the `dannys_diner` database:
 
