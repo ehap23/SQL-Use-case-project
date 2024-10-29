@@ -41,7 +41,7 @@ We have three tables within the `dannys_diner` database:
 2. **menu**: Menu items with `product_id`, `product_name`, and `price`.
 3. **members**: Loyalty program membership data with `join_date`.
 
-![Danny's Diner ERD Diagram](path/to/ERD-image.png) <!-- Update with actual image path -->
+![Danny's Diner ERD Diagram](https://github.com/ehap23/SQL-Use-case-project/edit/main/Assets/diagram.png) <!-- Update with actual image path -->
 
 ---
 
